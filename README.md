@@ -158,4 +158,3 @@ npm run dev
 4. Deploy and navigate to the live URL on your mobile device.
 5. Tap **Share -> Add to Home Screen** for the native PWA experience.
 
-```
